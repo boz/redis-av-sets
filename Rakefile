@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "redis-av-sets"
   gem.homepage = "http://github.com/abozanich/redis-av-sets"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Attribute-Value sets backed by redis}
+  gem.description = %Q{}
   gem.email = "adam.boz@gmail.com"
   gem.authors = ["Adam Bozanich"]
   # dependencies defined in Gemfile

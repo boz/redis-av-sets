@@ -1,6 +1,6 @@
 = redis-av-sets
 
-Description goes here.
+Attribute-Value set management, backed Redis
 
 == Contributing to redis-av-sets
  
